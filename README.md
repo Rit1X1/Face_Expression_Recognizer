@@ -7,7 +7,7 @@ Facial Expression Recognition Code
 
 This is a custom CNN model. Kaggle FER 2013 data set is fed to the model. This model runs fast and produces satisfactory results. It can be also run real time as well.
 
-**4.1. Install dependencies**
+**4.1. Install dependencies**<br>
 Tensorflow<br>
 Tflearn<br>
 Numpy<br>
